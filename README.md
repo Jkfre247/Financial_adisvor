@@ -6,6 +6,11 @@ This repository contains a **Streamlit-based application** designed to support f
 
 The app offers **five investment strategies**, each presented in a dedicated interface. It is intuitive and user-friendly, catering to both beginner and advanced users.
 
+## Libraries Used
+Streamlit, TensorFlow, Pandas, Plotly, yFinance, NumPy
+
+> Future plans include evaluating and integrating alternative libraries for retrieving financial data instead of yFinance.
+
 ## Key Features
 
 ### 1. Defensive Portfolio
@@ -46,3 +51,10 @@ Provides advanced users with tools for conducting a detailed analysis of selecte
 - The app uses **historical data** to simulate potential returns, helping users understand the principles of investing and managing risk.  
 - Predictive models allow users to experiment with **riskier strategies** in a safe, simulated environment.
 
+## Future Development
+- **Introducing New Models:** Adding and testing alternative neural network architectures for more accurate investment recommendations.  
+- **Cloud Integration:** Deploying the application to **AWS** or **Azure** for better scalability, performance, and real-time predictions.  
+- **Alternative Libraries:** Exploring the use of other financial data libraries to replace **yFinance**.
+
+## Repository
+Explore the code and details in the repository: [GitHub Repository](https://github.com/Jkfre247/Financial_adisvor)
